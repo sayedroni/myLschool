@@ -1,0 +1,10 @@
+.footer{
+    background-color: black;
+    height: 60px;
+}
+.footer p{
+    color: cornsilk;
+    font-weight: bold;
+    padding-top: 20px;
+    font-style: italic;
+}

@@ -27,6 +27,28 @@
 .App-link {
   color: #61dafb;
 }
+.navbar-nav a{
+  text-decoration: none;
+  color: aquamarine;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 15px;
+}
+.navbar-nav a:hover{
+  background-color: rgb(192, 164, 121);
+  color: black;
+  
+}
+.logo{
+  text-decoration: none;
+  color: aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+}
+.logo:hover{
+  color: aquamarine;
+}
 
 @keyframes App-logo-spin {
   from {

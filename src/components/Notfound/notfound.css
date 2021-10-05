@@ -1,0 +1,20 @@
+.notfound {
+    margin: 200px;
+}
+.notfound h1{
+    font-size: 250px;
+    color: red;
+}
+.notfound h2{
+   
+    color: red;
+}
+.back{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: cornsilk;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+}

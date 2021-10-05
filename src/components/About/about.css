@@ -1,0 +1,18 @@
+.aboutus h2{
+    margin-top: 100px;
+    color: rgb(168, 107, 32);
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+.aboutus img{
+    width: 500px;
+    height: 300px;
+}
+.aboutus p{
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    color: olivedrab;
+    margin-top: 20px ;
+}
